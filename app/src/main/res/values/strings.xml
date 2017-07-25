@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PluginAPPDemo</string>
+    <string name="load_plugin">加载Plugin</string>
+</resources>
